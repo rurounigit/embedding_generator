@@ -133,8 +133,7 @@ This zip file is structured to be directly usable by LangChain's `FAISS.load_loc
 
 ## 📄 License
 
-This project is provided as-is. If you are distributing it, consider adding a `LICENSE` file (e.g., MIT License).
-
+Apache 2.0
 
 ---
 title: Embedding Generator Gemini
