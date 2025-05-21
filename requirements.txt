@@ -1,0 +1,9 @@
+gradio
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu  # Or faiss-gpu if you have GPU support in your Space hardware
+python-dotenv
+tiktoken # Often needed by text splitters
+ unstructured # May be needed by DirectoryLoader depending on file types
+# Add specific versions if needed, e.g., langchain==0.1.15
